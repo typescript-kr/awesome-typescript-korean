@@ -1,6 +1,9 @@
 ## Awesome TypeScript Korean [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > 한국어로만 선별된 타입스크립트 리소스 리스트
 
+## 공식 문서
+- [핸드북 번역](https://typescript-kr.github.io)
+
 ## 강의 영상
 - [2017.05 기초 세미나](https://www.youtube.com/playlist?list=PLV6pYUAZ-ZoEBNDzOxzToMqv-V1QGlU0T) - by 타입스크립트 코리아
 - [2017.06 React-with-TypeScript 세미나](https://www.youtube.com/playlist?list=PLV6pYUAZ-ZoHx0OjUduzaFSZ4_cUqXLm0) - by 타입스크립트 코리아
@@ -36,6 +39,9 @@
 - [Flow와 TypeScript의 채택 - 두 프로세스의 비교 (번역)](https://rhostem.github.io/posts/2017-06-11-adopting-flow-and-typescript)
 - [class에서 'this' 를 사용할 때 주의사항](http://norux.me/61)
 - [tsconfig.json의 lib](http://norux.me/59)
+
+## 저장소
+- [Intro to TypeScript in 15 minutes](https://github.com/JaeYeopHan/intro_to_typescript) by 한재엽님
 
 ## 발표자료
 - [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://youtu.be/H16gTwa2J7g)
