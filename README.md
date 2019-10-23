@@ -21,6 +21,7 @@
 - [타입스크립트 마스터 2/e](http://acornpub.co.kr/book/mastering-typescript-2e) - by 에이콘
 - [타입스크립트 퀵스타트](http://www.yes24.com/24/goods/59719961) - by 루비페이퍼
 - [자바스크립트 개발자를 위한 타입스크립트 (깃북)](https://ahnheejong.gitbook.io/ts-for-jsdev) - by 안희종님
+- [TGrid 가이드 문서 (깃북)](https://tgrid.dev/ko) - by 삼촌
 
 ## 커뮤니티
 - [타입스크립트 코리아](https://www.facebook.com/groups/TSKorea) - 타입스크립트 코리아 페이스북 그룹
