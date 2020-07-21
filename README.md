@@ -43,7 +43,7 @@
 - [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 - [타입스크립트 쿡북](https://www.notion.so/TypeScript-Cookbook-727820ac0d4544498ebe732e940816f4)
 - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev)
-- [TGrid 가이드 문서 (깃북)](https://tgrid.dev/ko)
+- [TGrid 가이드 문서 (깃북)](https://tgrid.com/ko)
 - [우리가 Typescript를 선택한 이유 (번역)](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 - [TypeScript를 무서워하지 않아도 되는 이유 (번역)](http://han41858.tistory.com/14)
 - [두려움, 믿음, 그리고 자바스크립트 - 언제 타입 시스템과 함수형 프로그래밍이 먹히지 않는가(번역)](https://medium.com/@rinae/%EB%B2%88%EC%97%AD-%EB%91%90%EB%A0%A4%EC%9B%80-%EB%AF%BF%EC%9D%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%A0%9C-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4-%EB%A8%B9%ED%9E%88%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B0%80-dde33972301f)
