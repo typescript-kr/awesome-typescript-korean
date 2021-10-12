@@ -1,4 +1,5 @@
 ## Awesome TypeScript Korean [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 > 한국어로만 선별된 타입스크립트 리소스 리스트
 
 ## 공식 문서
@@ -21,8 +22,9 @@
 - [DailyEngineering](https://hyunseob.github.io/categories/JavaScript/TypeScript) - 타입스크립트 코리아 이현섭님의 블로그
 
 ## 책
+
 - [Do it! 타입스크립트 프로그래밍](http://www.easyspub.co.kr/20_Menu/BookView/356/PUB) - by 전예홍님
-- [예제로 배우는 타입스크립트 2.X](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791161340265) -  by Ohri, Sachin / 옮긴이 김창수님
+- [예제로 배우는 타입스크립트 2.X](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791161340265) - by Ohri, Sachin / 옮긴이 김창수님
 - [타입스크립트 디자인 패턴](http://acornpub.co.kr/book/typescript-design-patterns) - by Vilic Vane / 옮긴이 홍영표님
 - [타입스크립트 마스터 2/e](http://acornpub.co.kr/book/mastering-typescript-2e) - by Nathan Rozentals / 김유성님
 - [타입스크립트 퀵스타트](http://www.yes24.com/24/goods/59719961) - by 정진욱님
@@ -36,6 +38,7 @@
 ## 아티클
 
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/series/react-with-typescript)
+- [리액트 프로젝트에서 타입스크립트와 리덕스 미들웨어 사용하기](https://react.vlpt.us/using-typescript/06-ts-redux-middleware.html)
 - [달달한 제안, TypeScript](https://jbee.io/typescript/you_might_need_typescript)
 - [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript)
 - [클린코드 타입스크립트](https://github.com/738/clean-code-typescript)
@@ -68,6 +71,5 @@
 - [Typescript 개발 문화](https://youtu.be/DLfSgPdyT8k)
 - [코드 한 줄 없는 Typescript 사용기](https://youtu.be/O1U2qf0SW8k)
 - [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://youtu.be/H16gTwa2J7g)
-
 
 ## 라이센스
