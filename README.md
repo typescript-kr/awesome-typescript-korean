@@ -59,6 +59,10 @@
 ## 저장소
 
 - [Intro to TypeScript in 15 minutes](https://github.com/JaeYeopHan/intro_to_typescript) by 한재엽님
+- [타입스크립트 백엔드 템플릿](https://github.com/samchon/backend/tree/korean)
+- [통합 결제 서버 with SDK](https://github.com/archidraw/payments)
+- [가짜 아임포트 서버 with 진짜 SDK](https://github.com/samchon/fake-iamport-server)
+- [가짜 토스 페이먼츠 서버 with 진짜 SDK](https://github.com/samchon/fake-toss-payments-server)
 
 ## 발표자료
 
