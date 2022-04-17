@@ -6,6 +6,12 @@
 
 - [핸드북 번역](https://typescript-kr.github.io)
 
+## 기타 문서
+
+- [TypeScript Cookbook](https://www.notion.so/TypeScript-Cookbook-727820ac0d4544498ebe732e940816f4)
+- [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev)
+- [타입스크립트 핸드북](https://joshua1988.github.io/ts)
+
 ## 강의 영상
 
 - [타입스크립트 기초 워크숍 201812](https://www.youtube.com/playlist?list=PLV6pYUAZ-ZoFwOspuVHBvmhQRalqvj7Jf) - by 이웅재님
@@ -44,8 +50,6 @@
 - [클린코드 타입스크립트](https://github.com/738/clean-code-typescript)
 - [Typescript의 기본 유틸 타입](http://blog.martinwork.co.kr/typescript/2019/05/28/typescript-util-types.html)
 - [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
-- [타입스크립트 쿡북](https://www.notion.so/TypeScript-Cookbook-727820ac0d4544498ebe732e940816f4)
-- [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev)
 - [TGrid 가이드 문서 (깃북)](https://tgrid.com/ko)
 - [우리가 Typescript를 선택한 이유 (번역)](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 - [TypeScript를 무서워하지 않아도 되는 이유 (번역)](http://han41858.tistory.com/14)
@@ -75,5 +79,3 @@
 - [Typescript 개발 문화](https://youtu.be/DLfSgPdyT8k)
 - [코드 한 줄 없는 Typescript 사용기](https://youtu.be/O1U2qf0SW8k)
 - [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://youtu.be/H16gTwa2J7g)
-
-## 라이센스
