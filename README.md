@@ -24,7 +24,7 @@
 ## 블로그
 
 - [PoiemaWeb](https://poiemaweb.com) - 이웅모님의 웹 개발 튜토리얼
-- [JBEE](https://jaeyeophan.github.io/categories/TypeScript) - 타입스크립트 코리아 한재엽님의 블로그
+- [JBEE](https://blog.jbee.io/typescript/0.+Quick+Start) - 타입스크립트 코리아 한재엽님의 블로그
 - [DailyEngineering](https://hyunseob.github.io/categories/JavaScript/TypeScript) - 타입스크립트 코리아 이현섭님의 블로그
 
 ## 책
